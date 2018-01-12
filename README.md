@@ -1,3 +1,15 @@
+# Archived Notes
+
+The cannonical version is now managed on the IMEx Consortium GitHub account. 
+
+See: https://github.com/IMEx-Consortium/IMEx-site
+
+There is a fork under the ebiwd GitHub account for any EMBL-EBI Web Dev pull requests to initiate from.  
+
+See https://github.com/ebiwd/IMEx-site
+
+Archived Jan 2018
+
 # EBI-Boilerplate-Jekyll
 Get up and running with EBI-themed Jekyll fast (rolled with gh-pages in mind, clone/fork suggested)
 
